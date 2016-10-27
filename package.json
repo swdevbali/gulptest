@@ -1,0 +1,27 @@
+{
+  "name": "gulptest",
+  "version": "1.0.0",
+  "description": "Familiarize with the use of Gulp",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-swdevbali:swdevbali/gulptest.git"
+  },
+  "keywords": [
+    "gulp",
+    "javascript"
+  ],
+  "author": "Eko Wibowo",
+  "license": "ISC"
+}
